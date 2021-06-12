@@ -1,5 +1,5 @@
 {
-    "Shiokaze": [{
+    "Shiokaze": {
         "1": [{
             "name": "On the roof of a hilltop house",
             "x":"",
@@ -300,7 +300,7 @@
                 "x":"",
                 "y":""
                 }]
-        }], 
+                }, 
 
 
     "Futago": ["",""],
