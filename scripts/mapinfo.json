@@ -611,302 +611,302 @@
     "Gengetsu":
     {
         "lamp1": {
-            "name": "On the roof of a hilltop house",
+            "name": "Airship flying around town 2",
             "x":"",
             "y":""
             },
         "lamp2": {
-                "name": "Along the cruise ship journey 1",
-                "x":"",
-                "y":""
-                },
-        "lamp3": {
-                "name": "On dangerous ground 1",
-                "x":"",
-                "y":""
-                },
-        "lamp4": {
-                "name": "Jump big with the jump pad! 1",
-                "x":"",
-                "y":""
-                },
-        "lamp5": {
-                "name": "Great view from Shiokaze Pier",
-                "x":"",
-                "y":""
-                },
-        "lamp6": {
-                "name": "Follow the traces 1",
-                "x":"",
-                "y":""
-                },
-        "lamp7": {
-                "name": "Along the cruise ship journey 2",
-                "x":"",
-                "y":""
-                },
-        "lamp8": {
-                "name": "Follow the traces 2",
-                "x":"",
-                "y":""
-                },
-            "lamp9": {
-                "name": "Follow the traces 3",
-                "x":"",
-                "y":""
-                },
-            "lamp10": {
-                "name": "On dangerous ground 2",
-                "x":"",
-                "y":""
-                },
-            "lamp11": {
-                "name": "Special vase",
-                "x":"",
-                "y":""
-                },
-            "lamp12": {
-                "name": "Jump big with the jump pad! 2",
-                "x":"",
-                "y":""
-                },
-            "lamp13": {
-                "name": "Diving catch 1",
-                "x":"",
-                "y":""
-                },
-            "lamp14": {
-                "name": "Through the teleporter 1",
-                "x":"",
-                "y":""
-                },
-            "lamp15": {
-                "name": "Under the old and brittle plank 1",
-                "x":"",
-                "y":""
-                },
-            "lamp16": {
-                "name": "On dangerous ground 3",
-                "x":"",
-                "y":""
-                },
-            "lamp17": {
-                "name": "Jump big with the jump pad! 3",
-                "x":"",
-                "y":""
-                },
-            "lamp18": {
-                "name": "Through the teleporter 3",
-                "x":"",
-                "y":""
-                },
-            "lamp19": {
-                "name": "Via midair jump 1",
-                "x":"",
-                "y":""
-                },
-            "lamp20": {
-                "name": "From faraway seas",
-                "x":"",
-                "y":""
-                },
-            "lamp21": {
-                "name": "Diving catch 2",
-                "x":"",
-                "y":""
-                },
-            "lamp22": {
-                "name": "Via midair jump 2",
-                "x":"",
-                "y":""
-                },
-            "lamp23": {
-                "name": "Warm glow of a lantern",
-                "x":"",
-                "y":""
-                },
-            "lamp24": {
-                "name": "Overflowing letters",
-                "x":"",
-                "y":""
-                },
-            "lamp25": {
-                "name": "Exploring boulders 1",
-                "x":"",
-                "y":""
-                },
-            "lamp26": {
-                "name": "Airship flying around town 1",
-                "x":"",
-                "y":""
-                },
-            "lamp27": {
-                "name": "Discovery! In the bush 1",
-                "x":"",
-                "y":""
-                },
-            "lamp28": {
-                "name": "Discovery! In the bush 2",
-                "x":"",
-                "y":""
-                },
-            "lamp29": {
-                "name": "Jump big with the jump pad! 4",
-                "x":"",
-                "y":""
-                },
-            "lamp30": {
-                "name": "Discovery! In the bush 3",
-                "x":"",
-                "y":""
-                },
-            "lamp31": {
-                "name": "Discovery! In the bush 4",
-                "x":"",
-                "y":""
-                },
-            "lamp32": {
                 "name": "A little help",
                 "x":"",
                 "y":""
                 },
-            "lamp33": {
-                "name": "Troublesome weed problem",
+        "lamp3": {
+                "name": "Through the teleporter 1",
                 "x":"",
                 "y":""
                 },
-            "lamp34": {
-                "name": "Balloons disappearing into the sky",
+        "lamp4": {
+                "name": "Airship flying around town 1",
                 "x":"",
                 "y":""
                 },
-            "lamp35": {
-                "name": "Shop at Shiokaze Pier",
+        "lamp5": {
+                "name": "Buried at the edge of the lake 1",
                 "x":"",
                 "y":""
                 },
-            "lamp36": {
-                "name": "Mischievous posters",
+        "lamp6": {
+                "name": "Under the old and brittle plank 1",
                 "x":"",
                 "y":""
                 },
-            "lamp37": {
-                "name": "Airship flying around town 2",
+        "lamp7": {
+                "name": "Below the old and brittle plate 2",
                 "x":"",
                 "y":""
                 },
-            "lamp38": {
-                "name": "Collect the fragments floating in the sky",
+        "lamp8": {
+                "name": "Jump big with the jump pad! 1",
                 "x":"",
                 "y":""
                 },
-            "lamp39": {
-                "name": "Destroy the relics of the Earth",
+            "lamp9": {
+                "name": "Through the teleporter 2",
                 "x":"",
                 "y":""
                 },
-            "lamp40": {
-                "name": "In a hard, huge rock 1",
-                "x":"",
-                "y":""
-                },
-            "lamp41": {
-                "name": "Under the old and brittle plank 2",
-                "x":"",
-                "y":""
-                },
-            "lamp42": {
-                "name": "Collect the scattered fragments",
-                "x":"",
-                "y":""
-                },
-            "lamp43": {
+            "lamp10": {
                 "name": "Under the old and brittle plank 3",
                 "x":"",
                 "y":""
                 },
-            "lamp44": {
-                "name": "Exploring boulders 2",
+            "lamp11": {
+                "name": "Diving catch 1",
                 "x":"",
                 "y":""
                 },
-            "lamp45": {
-                "name": "On dangerous ground 4",
+            "lamp12": {
+                "name": "Via midair jump 1",
                 "x":"",
                 "y":""
                 },
-            "lamp46": {
-                "name": "Buried at the edge of the pier 1",
+            "lamp13": {
+                "name": "Discovery! In the bush 1",
                 "x":"",
                 "y":""
                 },
-            "lamp47": {
-                "name": "Buried at the edge of the pier 2",
+            "lamp14": {
+                "name": "Discovery! In the bush 2",
                 "x":"",
                 "y":""
                 },
-            "lamp48": {
-                "name": "Buried at the edge of the pier 3",
+            "lamp15": {
+                "name": "Buried at the edge of the lake 4",
                 "x":"",
                 "y":""
                 },
-            "lamp49": {
-                "name": "Buried at the edge of the pier 4",
+            "lamp16": {
+                "name": "Via midair jump 2",
                 "x":"",
                 "y":""
                 },
-            "lamp50": {
-                "name": "Buried at the edge of the pier 5",
+            "lamp17": {
+                "name": "Forsaken by a stranger",
                 "x":"",
                 "y":""
                 },
-            "lamp51": {
-                "name": "Helping to collect books",
+            "lamp18": {
+                "name": "Jump big with the jump pad! 2",
                 "x":"",
                 "y":""
                 },
-            "lamp52": {
-                "name": "In a corner of the library",
-                "x":"",
-                "y":""
-                },
-            "lamp53": {
-                "name": "Behind the hidden door 1",
-                "x":"",
-                "y":""
-                },
-            "lamp54": {
-                "name": "Standing in the back of the library",
-                "x":"",
-                "y":""
-                },
-            "lamp55": {
-                "name": "Behind the hidden door 2",
-                "x":"",
-                "y":""
-                },
-            "lamp56": {
-                "name": "Balloons disappearing into the heavens",
-                "x":"",
-                "y":""
-                },
-            "lamp57": {
+            "lamp19": {
                 "name": "Airship flying around town 3",
                 "x":"",
                 "y":""
                 },
-            "lamp58": {
+            "lamp20": {
+                "name": "Balloons disappearing into the sky",
+                "x":"",
+                "y":""
+                },
+            "lamp21": {
+                "name": "In a hard, huge rock 1",
+                "x":"",
+                "y":""
+                },
+            "lamp22": {
+                "name": "Discovery! In the bush 3",
+                "x":"",
+                "y":""
+                },
+            "lamp23": {
+                "name": "On dangerous ground 1",
+                "x":"",
+                "y":""
+                },
+            "lamp24": {
+                "name": "In a hard, huge rock 2",
+                "x":"",
+                "y":""
+                },
+            "lamp25": {
+                "name": "Looking down on Gengetsu Lakeside",
+                "x":"",
+                "y":""
+                },
+            "lamp26": {
+                "name": "Great view from Gengetsu Lakeside",
+                "x":"",
+                "y":""
+                },
+            "lamp27": {
+                "name": "Along the airship journey 1",
+                "x":"",
+                "y":""
+                },
+            "lamp28": {
+                "name": "Under the old and brittle plank 4",
+                "x":"",
+                "y":""
+                },
+            "lamp29": {
+                "name": "Jump big with the jump pad! 3",
+                "x":"",
+                "y":""
+                },
+            "lamp30": {
+                "name": "Buried at the edge of the lake 5",
+                "x":"",
+                "y":""
+                },
+            "lamp31": {
+                "name": "Shopping at Gengetsu Lakeside",
+                "x":"",
+                "y":""
+                },
+            "lamp32": {
+                "name": "Warm glow of a lantern",
+                "x":"",
+                "y":""
+                },
+            "lamp33": {
+                "name": "Special vase",
+                "x":"",
+                "y":""
+                },
+            "lamp34": {
+                "name": "On dangerous ground 2",
+                "x":"",
+                "y":""
+                },
+            "lamp35": {
+                "name": "Below the old and brittle board 5",
+                "x":"",
+                "y":""
+                },
+            "lamp36": {
+                "name": "Buried at the edge of the lake 2",
+                "x":"",
+                "y":""
+                },
+            "lamp37": {
+                "name": "Mischevous posters",
+                "x":"",
+                "y":""
+                },
+            "lamp38": {
+                "name": "Via midair jump 3",
+                "x":"",
+                "y":""
+                },
+            "lamp39": {
+                "name": "Buried at the edge of the lake 3",
+                "x":"",
+                "y":""
+                },
+            "lamp40": {
+                "name": "Destroy the relics of the Earth",
+                "x":"",
+                "y":""
+                },
+            "lamp41": {
                 "name": "Destroy the relics of the Sky",
                 "x":"",
                 "y":""
                 },
+            "lamp42": {
+                "name": "Via midair jump 4",
+                "x":"",
+                "y":""
+                },
+            "lamp43": {
+                "name": "On dangerous ground 3",
+                "x":"",
+                "y":""
+                },
+            "lamp44": {
+                "name": "On dangerous ground 4",
+                "x":"",
+                "y":""
+                },
+            "lamp45": {
+                "name": "Help collecting documents",
+                "x":"",
+                "y":""
+                },
+            "lamp46": {
+                "name": "Buried at the edge of the lake 6",
+                "x":"",
+                "y":""
+                },
+            "lamp47": {
+                "name": "Overflowing letters",
+                "x":"",
+                "y":""
+                },
+            "lamp48": {
+                "name": "Troublesome weed problem",
+                "x":"",
+                "y":""
+                },
+            "lamp49": {
+                "name": "Along the airship journey 2",
+                "x":"",
+                "y":""
+                },
+            "lamp50": {
+                "name": "Collect the scattered fragments",
+                "x":"",
+                "y":""
+                },
+            "lamp51": {
+                "name": "Balloons disappearing into the heavens",
+                "x":"",
+                "y":""
+                },
+            "lamp52": {
+                "name": "Collect the fragments floating in the sky",
+                "x":"",
+                "y":""
+                },
+            "lamp53": {
+                "name": "The sealed guest room 1",
+                "x":"",
+                "y":""
+                },
+            "lamp54": {
+                "name": "Follow the traces 1",
+                "x":"",
+                "y":""
+                },
+            "lamp55": {
+                "name": "Diving catch 2",
+                "x":"",
+                "y":""
+                },
+            "lamp56": {
+                "name": "Standing in the back of the inn",
+                "x":"",
+                "y":""
+                },
+            "lamp57": {
+                "name": "Follow the traces 2",
+                "x":"",
+                "y":""
+                },
+            "lamp58": {
+                "name": "Buried in the back of the warehouse",
+                "x":"",
+                "y":""
+                },
             "lamp59": {
-                "name": "Looking down on Shiokaze Pier",
+                "name": "Follow the traces 3",
                 "x":"",
                 "y":""
                 },
             "lamp60": {
-                "name": "In a hard, huge rock 2",
+                "name": "The sealed guest room 2",
                 "x":"",
                 "y":""
                 }
