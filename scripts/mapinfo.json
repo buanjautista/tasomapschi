@@ -1,136 +1,136 @@
 {
     "Shiokaze": {
-        "1": {
+        "lamp1": {
             "name": "On the roof of a hilltop house",
             "x":"",
             "y":""
             },
-        "2": {
+        "lamp2": {
                 "name": "Along the cruise ship journey 1",
                 "x":"",
                 "y":""
                 },
-        "3": {
+        "lamp3": {
                 "name": "On dangerous ground 1",
                 "x":"",
                 "y":""
                 },
-        "4": {
+        "lamp4": {
                 "name": "Jump big with the jump pad! 1",
                 "x":"",
                 "y":""
                 },
-        "5": {
+        "lamp5": {
                 "name": "Great view from Shiokaze Pier",
                 "x":"",
                 "y":""
                 },
-        "6": {
+        "lamp6": {
                 "name": "Follow the traces 1",
                 "x":"",
                 "y":""
                 },
-        "7": {
+        "lamp7": {
                 "name": "Along the cruise ship journey 2",
                 "x":"",
                 "y":""
                 },
-        "8": {
+        "lamp8": {
                 "name": "Follow the traces 2",
                 "x":"",
                 "y":""
                 },
-            "9": {
+            "lamp9": {
                 "name": "Follow the traces 3",
                 "x":"",
                 "y":""
                 },
-            "10": {
+            "lamp10": {
                 "name": "On dangerous ground 2",
                 "x":"",
                 "y":""
                 },
-            "11": {
+            "lamp11": {
                 "name": "Special vase",
                 "x":"",
                 "y":""
                 },
-            "12": {
+            "lamp12": {
                 "name": "Jump big with the jump pad! 2",
                 "x":"",
                 "y":""
                 },
-            "13": {
+            "lamp13": {
                 "name": "Diving catch 1",
                 "x":"",
                 "y":""
                 },
-            "14": {
+            "lamp14": {
                 "name": "Through the teleporter 1",
                 "x":"",
                 "y":""
                 },
-            "15": {
+            "lamp15": {
                 "name": "Under the old and brittle plank 1",
                 "x":"",
                 "y":""
                 },
-            "16": {
+            "lamp16": {
                 "name": "On dangerous ground 3",
                 "x":"",
                 "y":""
                 },
-            "17": {
+            "lamp17": {
                 "name": "Jump big with the jump pad! 3",
                 "x":"",
                 "y":""
                 },
-            "18": {
+            "lamp18": {
                 "name": "Through the teleporter 3",
                 "x":"",
                 "y":""
                 },
-            "19": {
+            "lamp19": {
                 "name": "Via midair jump 1",
                 "x":"",
                 "y":""
                 },
-            "20": {
+            "lamp20": {
                 "name": "From faraway seas",
                 "x":"",
                 "y":""
                 },
-            "21": {
+            "lamp21": {
                 "name": "Diving catch 2",
                 "x":"",
                 "y":""
                 },
-            "22": {
+            "lamp22": {
                 "name": "Via midair jump 2",
                 "x":"",
                 "y":""
                 },
-            "23": {
+            "lamp23": {
                 "name": "Warm glow of a lantern",
                 "x":"",
                 "y":""
                 },
-            "24": {
+            "lamp24": {
                 "name": "Overflowing letters",
                 "x":"",
                 "y":""
                 },
-            "25": {
+            "lamp25": {
                 "name": "Exploring boulders 1",
                 "x":"",
                 "y":""
                 },
-            "26": {
+            "lamp26": {
                 "name": "Airship flying around town 1",
                 "x":"",
                 "y":""
                 },
-            "27": {
+            "lamp27": {
                 "name": "Discovery! In the bush 1",
                 "x":"",
                 "y":""
