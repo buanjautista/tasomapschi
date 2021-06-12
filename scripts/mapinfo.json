@@ -1,0 +1,1274 @@
+{
+    "shiokaze": [
+        {
+        "lamp1": [{
+            "name": "On the roof of a hilltop house",
+            "x":"",
+            "y":""
+            }]
+        },
+        {
+            "lamp2": [{
+                "name": "Along the cruise ship journey 1",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp3": [{
+                "name": "On dangerous ground 1",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp4": [{
+                "name": "Jump big with the jump pad! 1",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp5": [{
+                "name": "Great view from Shiokaze Pier",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp6": [{
+                "name": "Follow the traces 1",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp7": [{
+                "name": "Along the cruise ship journey 2",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp8": [{
+                "name": "Follow the traces 2",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp9": [{
+                "name": "Follow the traces 3",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp10": [{
+                "name": "On dangerous ground 2",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp11": [{
+                "name": "Special vase",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp12": [{
+                "name": "Jump big with the jump pad! 2",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp13": [{
+                "name": "Diving catch 1",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp14": [{
+                "name": "Through the teleporter 1",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp15": [{
+                "name": "Under the old and brittle plank 1",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp16": [{
+                "name": "On dangerous ground 3",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp17": [{
+                "name": "Jump big with the jump pad! 3",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp18": [{
+                "name": "Through the teleporter 3",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp19": [{
+                "name": "Via midair jump 1",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp20": [{
+                "name": "From faraway seas",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp21": [{
+                "name": "Diving catch 2",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp22": [{
+                "name": "Via midair jump 2",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp23": [{
+                "name": "Warm glow of a lantern",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp24": [{
+                "name": "Overflowing letters",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp25": [{
+                "name": "Exploring boulders 1",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp26": [{
+                "name": "Airship flying around town 1",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp27": [{
+                "name": "Discovery! In the bush 1",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp28": [{
+                "name": "Discovery! In the bush 2",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp29": [{
+                "name": "Jump big with the jump pad! 4",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp30": [{
+                "name": "Discovery! In the bush 3",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp31": [{
+                "name": "Discovery! In the bush 4",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp32": [{
+                "name": "A little help",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp33": [{
+                "name": "Troublesome weed problem",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp34": [{
+                "name": "Balloons disappearing into the sky",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp35": [{
+                "name": "Shop at Shiokaze Pier",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp36": [{
+                "name": "Mischievous posters",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp37": [{
+                "name": "Airship flying around town 2",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp38": [{
+                "name": "Collect the fragments floating in the sky",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp39": [{
+                "name": "Destroy the relics of the Earth",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp40": [{
+                "name": "In a hard, huge rock 1",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp41": [{
+                "name": "Under the old and brittle plank 2",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp42": [{
+                "name": "Collect the scattered fragments",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp43": [{
+                "name": "Under the old and brittle plank 3",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp44": [{
+                "name": "Exploring boulders 2",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp45": [{
+                "name": "On dangerous ground 4",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp46": [{
+                "name": "Buried at the edge of the pier 1",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp47": [{
+                "name": "Buried at the edge of the pier 2",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp48": [{
+                "name": "Buried at the edge of the pier 3",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp49": [{
+                "name": "Buried at the edge of the pier 4",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp50": [{
+                "name": "Buried at the edge of the pier 5",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp51": [{
+                "name": "Helping to collect books",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp52": [{
+                "name": "In a corner of the library",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp53": [{
+                "name": "Behind the hidden door 1",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp54": [{
+                "name": "Standing in the back of the library",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp55": [{
+                "name": "Behind the hidden door 2",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp56": [{
+                "name": "Balloons disappearing into the heavens",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp57": [{
+                "name": "Airship flying around town 3",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp58": [{
+                "name": "Destroy the relics of the Sky",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp59": [{
+                "name": "Looking down on Shiokaze Pier",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp60": [{
+                "name": "In a hard, huge rock 2",
+                "x":"",
+                "y":""
+                }]
+        }
+    ], 
+
+
+    "Futago": [
+        {
+        "lamp1": [{
+            "name": "",
+            "x":"",
+            "y":""
+            }]
+        },
+        {
+            "lamp2": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp3": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp4": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp5": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp6": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp7": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp8": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp9": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp10": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp11": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp12": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp13": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp14": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp15": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp16": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp17": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp18": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp19": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp20": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp21": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp22": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp23": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp24": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp25": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp26": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp27": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp28": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp29": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp30": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp31": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp32": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp33": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp34": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp35": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp36": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp37": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp38": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp39": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp40": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp41": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp42": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp43": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp44": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp45": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp46": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp47": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp48": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp49": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp50": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp51": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp52": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp53": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp54": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp55": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp56": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp57": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp58": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp59": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp60": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        }
+    ],
+
+
+
+    "Gengetsu":
+    [
+        {
+        "lamp1": [{
+            "name": "",
+            "x":"",
+            "y":""
+            }]
+        },
+        {
+            "lamp2": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp3": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp4": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp5": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp6": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp7": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp8": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp9": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp10": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp11": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp12": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp13": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp14": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp15": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp16": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp17": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp18": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp19": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp20": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp21": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp22": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp23": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp24": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp25": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp26": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp27": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp28": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp29": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp30": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp31": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp32": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp33": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp34": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp35": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp36": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp37": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp38": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp39": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp40": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp41": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp42": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp43": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp44": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp45": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp46": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp47": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp48": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp49": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp50": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp51": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp52": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp53": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp54": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp55": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp56": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp57": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp58": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp59": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        },
+        {
+            "lamp60": [{
+                "name": "",
+                "x":"",
+                "y":""
+                }]
+        }
+    ]
+}
