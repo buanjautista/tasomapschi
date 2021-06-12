@@ -1,306 +1,306 @@
 {
     "Shiokaze": {
-        "1": [{
+        "1": {
             "name": "On the roof of a hilltop house",
             "x":"",
             "y":""
-            }],
-        "2": [{
+            },
+        "2": {
                 "name": "Along the cruise ship journey 1",
                 "x":"",
                 "y":""
-                }],
-        "3": [{
+                },
+        "3": {
                 "name": "On dangerous ground 1",
                 "x":"",
                 "y":""
-                }],
-        "4": [{
+                },
+        "4": {
                 "name": "Jump big with the jump pad! 1",
                 "x":"",
                 "y":""
-                }],
-        "5": [{
+                },
+        "5": {
                 "name": "Great view from Shiokaze Pier",
                 "x":"",
                 "y":""
-                }],
-        "6": [{
+                },
+        "6": {
                 "name": "Follow the traces 1",
                 "x":"",
                 "y":""
-                }],
-        "7": [{
+                },
+        "7": {
                 "name": "Along the cruise ship journey 2",
                 "x":"",
                 "y":""
-                }],
-        "8": [{
+                },
+        "8": {
                 "name": "Follow the traces 2",
                 "x":"",
                 "y":""
-                }],
-            "9": [{
+                },
+            "9": {
                 "name": "Follow the traces 3",
                 "x":"",
                 "y":""
-                }],
-            "10": [{
+                },
+            "10": {
                 "name": "On dangerous ground 2",
                 "x":"",
                 "y":""
-                }],
-            "11": [{
+                },
+            "11": {
                 "name": "Special vase",
                 "x":"",
                 "y":""
-                }],
-            "12": [{
+                },
+            "12": {
                 "name": "Jump big with the jump pad! 2",
                 "x":"",
                 "y":""
-                }],
-            "13": [{
+                },
+            "13": {
                 "name": "Diving catch 1",
                 "x":"",
                 "y":""
-                }],
-            "14": [{
+                },
+            "14": {
                 "name": "Through the teleporter 1",
                 "x":"",
                 "y":""
-                }],
-            "15": [{
+                },
+            "15": {
                 "name": "Under the old and brittle plank 1",
                 "x":"",
                 "y":""
-                }],
-            "16": [{
+                },
+            "16": {
                 "name": "On dangerous ground 3",
                 "x":"",
                 "y":""
-                }],
-            "17": [{
+                },
+            "17": {
                 "name": "Jump big with the jump pad! 3",
                 "x":"",
                 "y":""
-                }],
-            "18": [{
+                },
+            "18": {
                 "name": "Through the teleporter 3",
                 "x":"",
                 "y":""
-                }],
-            "19": [{
+                },
+            "19": {
                 "name": "Via midair jump 1",
                 "x":"",
                 "y":""
-                }],
-            "20": [{
+                },
+            "20": {
                 "name": "From faraway seas",
                 "x":"",
                 "y":""
-                }],
-            "21": [{
+                },
+            "21": {
                 "name": "Diving catch 2",
                 "x":"",
                 "y":""
-                }],
-            "22": [{
+                },
+            "22": {
                 "name": "Via midair jump 2",
                 "x":"",
                 "y":""
-                }],
-            "23": [{
+                },
+            "23": {
                 "name": "Warm glow of a lantern",
                 "x":"",
                 "y":""
-                }],
-            "24": [{
+                },
+            "24": {
                 "name": "Overflowing letters",
                 "x":"",
                 "y":""
-                }],
-            "25": [{
+                },
+            "25": {
                 "name": "Exploring boulders 1",
                 "x":"",
                 "y":""
-                }],
-            "26": [{
+                },
+            "26": {
                 "name": "Airship flying around town 1",
                 "x":"",
                 "y":""
-                }],
-            "27": [{
+                },
+            "27": {
                 "name": "Discovery! In the bush 1",
                 "x":"",
                 "y":""
-                }],
-            "28": [{
+                },
+            "28": {
                 "name": "Discovery! In the bush 2",
                 "x":"",
                 "y":""
-                }],
-            "29": [{
+                },
+            "29": {
                 "name": "Jump big with the jump pad! 4",
                 "x":"",
                 "y":""
-                }],
-            "30": [{
+                },
+            "30": {
                 "name": "Discovery! In the bush 3",
                 "x":"",
                 "y":""
-                }],
-            "31": [{
+                },
+            "31": {
                 "name": "Discovery! In the bush 4",
                 "x":"",
                 "y":""
-                }],
-            "32": [{
+                },
+            "32": {
                 "name": "A little help",
                 "x":"",
                 "y":""
-                }],
-            "33": [{
+                },
+            "33": {
                 "name": "Troublesome weed problem",
                 "x":"",
                 "y":""
-                }],
-            "34": [{
+                },
+            "34": {
                 "name": "Balloons disappearing into the sky",
                 "x":"",
                 "y":""
-                }],
-            "35": [{
+                },
+            "35": {
                 "name": "Shop at Shiokaze Pier",
                 "x":"",
                 "y":""
-                }],
-            "36": [{
+                },
+            "36": {
                 "name": "Mischievous posters",
                 "x":"",
                 "y":""
-                }],
-            "37": [{
+                },
+            "37": {
                 "name": "Airship flying around town 2",
                 "x":"",
                 "y":""
-                }],
-            "38": [{
+                },
+            "38": {
                 "name": "Collect the fragments floating in the sky",
                 "x":"",
                 "y":""
-                }],
-            "39": [{
+                },
+            "39": {
                 "name": "Destroy the relics of the Earth",
                 "x":"",
                 "y":""
-                }],
-            "40": [{
+                },
+            "40": {
                 "name": "In a hard, huge rock 1",
                 "x":"",
                 "y":""
-                }],
-            "41": [{
+                },
+            "41": {
                 "name": "Under the old and brittle plank 2",
                 "x":"",
                 "y":""
-                }],
-            "42": [{
+                },
+            "42": {
                 "name": "Collect the scattered fragments",
                 "x":"",
                 "y":""
-                }],
-            "43": [{
+                },
+            "43": {
                 "name": "Under the old and brittle plank 3",
                 "x":"",
                 "y":""
-                }],
-            "44": [{
+                },
+            "44": {
                 "name": "Exploring boulders 2",
                 "x":"",
                 "y":""
-                }],
-            "45": [{
+                },
+            "45": {
                 "name": "On dangerous ground 4",
                 "x":"",
                 "y":""
-                }],
-            "46": [{
+                },
+            "46": {
                 "name": "Buried at the edge of the pier 1",
                 "x":"",
                 "y":""
-                }],
-            "47": [{
+                },
+            "47": {
                 "name": "Buried at the edge of the pier 2",
                 "x":"",
                 "y":""
-                }],
-            "48": [{
+                },
+            "48": {
                 "name": "Buried at the edge of the pier 3",
                 "x":"",
                 "y":""
-                }],
-            "49": [{
+                },
+            "49": {
                 "name": "Buried at the edge of the pier 4",
                 "x":"",
                 "y":""
-                }],
-            "50": [{
+                },
+            "50": {
                 "name": "Buried at the edge of the pier 5",
                 "x":"",
                 "y":""
-                }],
-            "51": [{
+                },
+            "51": {
                 "name": "Helping to collect books",
                 "x":"",
                 "y":""
-                }],
-            "52": [{
+                },
+            "52": {
                 "name": "In a corner of the library",
                 "x":"",
                 "y":""
-                }],
-            "53": [{
+                },
+            "53": {
                 "name": "Behind the hidden door 1",
                 "x":"",
                 "y":""
-                }],
-            "54": [{
+                },
+            "54": {
                 "name": "Standing in the back of the library",
                 "x":"",
                 "y":""
-                }],
-            "55": [{
+                },
+            "55": {
                 "name": "Behind the hidden door 2",
                 "x":"",
                 "y":""
-                }],
-            "56": [{
+                },
+            "56": {
                 "name": "Balloons disappearing into the heavens",
                 "x":"",
                 "y":""
-                }],
-            "57": [{
+                },
+            "57": {
                 "name": "Airship flying around town 3",
                 "x":"",
                 "y":""
-                }],
-            "58": [{
+                },
+            "58": {
                 "name": "Destroy the relics of the Sky",
                 "x":"",
                 "y":""
-                }],
-            "59": [{
+                },
+            "59": {
                 "name": "Looking down on Shiokaze Pier",
                 "x":"",
                 "y":""
-                }],
-            "60": [{
+                },
+            "60": {
                 "name": "In a hard, huge rock 2",
                 "x":"",
                 "y":""
-                }]
-                }, 
+                }
+            }, 
 
 
     "Futago": ["",""],
